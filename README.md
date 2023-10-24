@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Software Engineering student at AAiT | A2SV alumni</h1>
 <h3 align="center">A dedicated Software Engineer who loves working on transformative projects</h3>
-<img align = ‘right’ width = ‘400’ alt = ‘coding’ src = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw1XM-ohVS7x6Ww5-kxWbJHX&ust=1698227510089000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCQjc60joIDFQAAAAAdAAAAABAS' />
+<img align = ‘right’ width = ‘400’ alt = ‘coding’ src = 'https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahib-sem" alt="sahib-sem" /></a> </p>
 
