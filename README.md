@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1SGZUb1cZ4Xr7_nFC84EGyj6f7voF9_pKtX9iwcVyf64/edit](https://docs.google.com/document/d/1SGZUb1cZ4Xr7_nFC84EGyj6f7voF9_pKtX9iwcVyf64/edit)
 
-- ⚡ Fun fact **I am man utd fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
