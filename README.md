@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Software Engineering student at AAiT | A2SV alumni</h1>
 <h3 align="center">A dedicated Software Engineer who loves working on transformative projects</h3>
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1SGZUb1cZ4Xr7_nFC84EGyj6f7voF9_pKtX9iwcVyf64/edit](https://docs.google.com/document/d/1SGZUb1cZ4Xr7_nFC84EGyj6f7voF9_pKtX9iwcVyf64/edit)
+- 📄 Know about my experiences [resume link](https://docs.google.com/document/d/1SGZUb1cZ4Xr7_nFC84EGyj6f7voF9_pKtX9iwcVyf64/edit)
 
 
 <h3 align="left">Connect with me:</h3>
